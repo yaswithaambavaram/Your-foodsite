@@ -33,4 +33,4 @@ This project is built to practice front-end development skills and improve under
 ---
 
 ## 👩‍💻 Author
-Yaswitha Ambavaram
+Ambavaram Yaswitha
